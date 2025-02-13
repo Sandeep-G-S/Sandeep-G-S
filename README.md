@@ -7,17 +7,18 @@ Software Engineer | Java Developer
         <ul style="list-style: none; padding: 0; margin: 0;">
             <li>🔭 Exploring <a href="#">My Projects</a></li>
             <li>🌱 Currently learning Spring Boot, React, and Security Awareness</li>
-            <li>🎓 <strong>Education:</strong> B.Tech in Computer Science and Business Systems, R.M.D Engineering College (CGPA: 8.03)</li>
-            <li>🏆 <strong>Achievements:</strong> Top performer in iamneo Monthly Codeathon, Hackathon finalist at Hack4TKM and Hacktivate</li>
+            <li>🎓 <strong>Education:</strong> <br> R.M.D Engineering College (CGPA: 8.03)</li>
+            <li>🏆 <strong>Achievements:</strong> <br> Top performer in iamneo Monthly Codeathon <br> Hackathon finalist at Hack4TKM and Hacktivate</li>
             <li>💡 Developed <a href="#">Animal Intrusion Detection System</a> and <a href="#">Improvement Idea Web Application</a></li>
         </ul>
     </div>
     <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 </div>
 
+
 ### 📱 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gs-sandeep/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/g-s-sandeep/)
 
 ### 🛠️ I Code In
 
