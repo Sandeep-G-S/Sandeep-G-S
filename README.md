@@ -8,7 +8,6 @@ Software Engineer | Java Developer
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1;">
         <ul style="list-style: none; padding: 0; margin: 0;">
-            <li>🔭 Exploring <a href="#">My Projects</a></li>
             <li>🌱 Currently learning Spring Boot, React, and Security Awareness</li>
             <li><strong>🎓 Education:</strong></li>
             <ul style="list-style: none; padding-left: 30px; margin: 5px 0;">
@@ -33,7 +32,7 @@ Software Engineer | Java Developer
 
 ### 📱 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/g-s-sandeep/)
+[<img src="https://www.edigitalagency.com.au/linkedin/new-linkedin-logo-png/" />](https://www.linkedin.com/in/g-s-sandeep/)
 
 ### 🛠️ I Code In
 
