@@ -16,25 +16,27 @@ Software Engineer | Java Developer
 
 ### 🛠️ I Code In
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<div style="display: flex; gap: 5px; align-items: center;">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+</div>
 
 ### 🔧 Tools & Technologies
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png" />
-
-### 📊 GitHub Stats
-
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSSandeep&theme=dark&show_icons=true&&hide=issues,contribs)
+<div style="display: flex; gap: 5px; align-items: center;">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/firebase.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
+</div>
 
 ### 🚀 Competitive Programming
 
