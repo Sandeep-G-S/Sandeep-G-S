@@ -32,7 +32,7 @@ Software Engineer | Java Developer
 
 ### 📱 Connect with Me
 
-[<img src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white" />](https://www.linkedin.com/in/g-s-sandeep/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.linkedin.com/in/g-s-sandeep/)
 
 ### 🛠️ I Code In
 
