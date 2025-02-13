@@ -2,25 +2,30 @@
 
 Software Engineer | Java Developer 
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
     <div>
         <ul style="list-style: none; padding: 0; margin: 0;">
             <li>🔭 Exploring <a href="#">My Projects</a></li>
-            <li>🌱 Currently learning Spring Boot, React, and Security Awareness</li>
+            <li>🌱 Currently learning Spring Boot, React, and Security Awareness</li>       
             <li><strong>🎓 Education:</strong></li>
-            <li style="margin-left: 20px;">R.M.D Engineering College (CGPA: 8.03)</li>
+            <ul style="list-style: none; padding-left: 20px; margin: 0;">
+                <li>📌 R.M.D Engineering College (CGPA: 8.03)</li>
+            </ul>
             <li><strong>🏆 Achievements:</strong></li>
-            <li style="margin-left: 20px;">Top performer in iamneo Monthly Codeathon</li>
-            <li style="margin-left: 20px;">Hackathon finalist at Hack4TKM and Hacktivate</li>            
+            <ul style="list-style: none; padding-left: 20px; margin: 0;">
+                <li>🥇 Top performer in iamneo Monthly Codeathon</li>
+                <li>🏅 Hackathon finalist at Hack4TKM and Hacktivate</li>
+            </ul>
             <li><strong>💡 Developed:</strong></li>
-            <li style="margin-left: 20px;"><a href="#">Animal Intrusion Detection System</a></li>
-            <li style="margin-left: 20px;"><a href="#">Improvement Idea Web Application</a></li>
-            <li style="margin-left: 20px;"><a href="#">Foundry Shop Floor Data Capturing Software</a></li>
+            <ul style="list-style: none; padding-left: 20px; margin: 0;">
+                <li>🚀 <a href="#">Animal Intrusion Detection System</a></li>
+                <li>💡 <a href="#">Improvement Idea Web Application</a></li>
+                <li>🏭 <a href="#">Foundry Shop Floor Data Capturing Software</a></li>
+            </ul>
         </ul>
     </div>
-    <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+    <img width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 </div>
-
 
 
 ### 📱 Connect with Me
