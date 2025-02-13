@@ -2,6 +2,9 @@
 
 Software Engineer | Java Developer 
 
+<div>
+    <img width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+</div>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1;">
         <ul style="list-style: none; padding: 0; margin: 0;">
@@ -23,9 +26,6 @@ Software Engineer | Java Developer
                 <li>🏭 <a href="#">Foundry Shop Floor Data Capturing Software</a></li>
             </ul>
         </ul>
-    </div>
-    <div>
-        <img width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
     </div>
 </div>
 
