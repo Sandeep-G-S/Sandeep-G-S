@@ -36,14 +36,22 @@ Software Engineer | Java Developer
 
 ### 🛠️ I Code In
 
-<div style="display: flex; gap: 5px; align-items: center;">
+<div style="display: flex; gap: 5px; align-items: center; flex-wrap: wrap;">
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/asp-net.png" />
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 </div>
+
 
 ### 🔧 Tools & Technologies
 
