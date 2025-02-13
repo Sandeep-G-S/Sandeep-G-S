@@ -38,9 +38,4 @@ Software Engineer | Java Developer
 
 ### 🚀 Competitive Programming
 
-[![Leetcode Stats]([https://leetcard.jacoblin.cool/GSSandeep?ext=contest&theme=dark](https://leetcard.jacoblin.cool/Sandeep_G_S?theme=dark&font=Sulphur%20Point&ext=activity))](https://leetcode.com/GSSandeep)
-
-### 📈 Activity Graph
-
-[![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GSSandeep&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sandeep_G_S?theme=dark&font=Sulphur%20Point&ext=activity)](https://leetcode.com/u/Sandeep_G_S/)
