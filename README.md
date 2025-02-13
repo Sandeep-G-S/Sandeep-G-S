@@ -2,13 +2,18 @@
 
 Software Engineer | Java Developer 
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-- 🔭 Exploring [My Projects](#)
-- 🌱 Currently learning Spring Boot, React, and Security Awareness
-- 🎓 **Education:** B.Tech in Computer Science and Business Systems, R.M.D Engineering College (CGPA: 8.03)
-- 🏆 **Achievements:** Top performer in iamneo Monthly Codeathon, Hackathon finalist at Hack4TKM and Hacktivate
-- 💡 Developed [Animal Intrusion Detection System](#) and [Improvement Idea Web Application](#)
+<div style="display: flex; align-items: center; gap: 20px;">
+    <div>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+            <li>🔭 Exploring <a href="#">My Projects</a></li>
+            <li>🌱 Currently learning Spring Boot, React, and Security Awareness</li>
+            <li>🎓 <strong>Education:</strong> B.Tech in Computer Science and Business Systems, R.M.D Engineering College (CGPA: 8.03)</li>
+            <li>🏆 <strong>Achievements:</strong> Top performer in iamneo Monthly Codeathon, Hackathon finalist at Hack4TKM and Hacktivate</li>
+            <li>💡 Developed <a href="#">Animal Intrusion Detection System</a> and <a href="#">Improvement Idea Web Application</a></li>
+        </ul>
+    </div>
+    <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+</div>
 
 ### 📱 Connect with Me
 
