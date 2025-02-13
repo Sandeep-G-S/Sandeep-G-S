@@ -21,7 +21,7 @@ Software Engineer | Java Developer
             <li><strong>💡 Developed:</strong></li>
             <ul style="list-style: none; padding-left: 30px; margin: 5px 0;">
                 <li>🚀 <a href="https://github.com/Sandeep-G-S/Animal-Intrusion-Detection-and-Alert-System">Animal Intrusion Detection System</a></li>
-                <li>💡 <a href="#">Improvement Idea Web Application</a></li>
+                <li>💡 <a href="https://github.com/Sandeep-G-S/Improvement-Idea-Web-Application">Improvement Idea Web Application</a></li>
                 <li>🏭 <a href="https://github.com/Sandeep-G-S/Foundry-Shop-Floor-Data-Capturing-Software">Foundry Shop Floor Data Capturing Software</a></li>
             </ul>
         </ul>
