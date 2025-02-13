@@ -32,7 +32,7 @@ Software Engineer | Java Developer
 
 ### 📱 Connect with Me
 
-[<img src="https://www.edigitalagency.com.au/linkedin/new-linkedin-logo-png/" />](https://www.linkedin.com/in/g-s-sandeep/)
+[<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" />](https://www.linkedin.com/in/g-s-sandeep/)
 
 ### 🛠️ I Code In
 
