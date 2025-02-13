@@ -46,7 +46,7 @@ Software Engineer | Java Developer
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/asp-net.png" />
+    <img height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ogzjtbw9BR2kvN88btLRfK3Ffc9p3dVcNQ&s" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
