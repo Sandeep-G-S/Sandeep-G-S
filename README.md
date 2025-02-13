@@ -8,7 +8,7 @@ Software Engineer | Java Developer
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div style="flex: 1;">
         <ul style="list-style: none; padding: 0; margin: 0;">
-            <li>🌱 Currently learning Spring Boot, React, and Security Awareness</li>
+            <li>🌱 Currently learning Spring Boot, React</li>
             <li><strong>🎓 Education:</strong></li>
             <ul style="list-style: none; padding-left: 30px; margin: 5px 0;">
                 <li>📌 R.M.D Engineering College (CGPA: 8.03)</li>
