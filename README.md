@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm G.S. Sandeep
 
-Software Engineer | Java Developer | Cybersecurity Enthusiast
+Software Engineer | Java Developer 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -8,8 +8,7 @@ Software Engineer | Java Developer | Cybersecurity Enthusiast
 - 🌱 Currently learning Spring Boot, React, and Security Awareness
 - 🎓 **Education:** B.Tech in Computer Science and Business Systems, R.M.D Engineering College (CGPA: 8.03)
 - 🏆 **Achievements:** Top performer in iamneo Monthly Codeathon, Hackathon finalist at Hack4TKM and Hacktivate
-- 💡 Developed [Animal Intrusion Detection System](#), [Indoor Navigation System](#), and [Improvement Idea Web Application](#)
-- ⚡ Fun fact: I enjoy working with AI and cybersecurity.
+- 💡 Developed [Animal Intrusion Detection System](#) and [Improvement Idea Web Application](#)
 
 ### 📱 Connect with Me
 
@@ -39,7 +38,7 @@ Software Engineer | Java Developer | Cybersecurity Enthusiast
 
 ### 🚀 Competitive Programming
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/GSSandeep?ext=contest&theme=dark)](https://leetcode.com/GSSandeep)
+[![Leetcode Stats]([https://leetcard.jacoblin.cool/GSSandeep?ext=contest&theme=dark](https://leetcard.jacoblin.cool/Sandeep_G_S?theme=dark&font=Sulphur%20Point&ext=activity))](https://leetcode.com/GSSandeep)
 
 ### 📈 Activity Graph
 
