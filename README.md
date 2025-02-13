@@ -7,13 +7,20 @@ Software Engineer | Java Developer
         <ul style="list-style: none; padding: 0; margin: 0;">
             <li>🔭 Exploring <a href="#">My Projects</a></li>
             <li>🌱 Currently learning Spring Boot, React, and Security Awareness</li>
-            <li>🎓 <strong>Education:</strong> <br> R.M.D Engineering College (CGPA: 8.03)</li>
-            <li>🏆 <strong>Achievements:</strong> <br> Top performer in iamneo Monthly Codeathon <br> Hackathon finalist at Hack4TKM and Hacktivate</li>
-            <li>💡 Developed <a href="#">Animal Intrusion Detection System</a> and <a href="#">Improvement Idea Web Application</a></li>
+            <li><strong>🎓 Education:</strong></li>
+            <li style="margin-left: 20px;">R.M.D Engineering College (CGPA: 8.03)</li>
+            <li><strong>🏆 Achievements:</strong></li>
+            <li style="margin-left: 20px;">Top performer in iamneo Monthly Codeathon</li>
+            <li style="margin-left: 20px;">Hackathon finalist at Hack4TKM and Hacktivate</li>            
+            <li><strong>💡 Developed:</strong></li>
+            <li style="margin-left: 20px;"><a href="#">Animal Intrusion Detection System</a></li>
+            <li style="margin-left: 20px;"><a href="#">Improvement Idea Web Application</a></li>
+            <li style="margin-left: 20px;"><a href="#">Foundry Shop Floor Data Capturing Software</a></li>
         </ul>
     </div>
     <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 </div>
+
 
 
 ### 📱 Connect with Me
